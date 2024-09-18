@@ -11,7 +11,7 @@ This project is a responsive landing page built using **Tailwind CSS**. It highl
 
 ## Live Demo
 
-Check out the live site: [[Tailwind Landing Page](https://atharva-mahajan-1104.github.io/tailwind-landing-page/)](https://atharva-mahajan-1104.github.io/Tailwind-CSS-landing-page/)
+Check out the live site:(https://atharva-mahajan-1104.github.io/Tailwind-CSS-landing-page/)
 
 ## License
 
